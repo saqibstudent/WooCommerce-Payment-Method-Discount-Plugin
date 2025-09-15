@@ -281,8 +281,22 @@ Check `/wp-content/debug.log` for plugin-related errors.
 
 ### Development
 - **Author**: Expert Web Developer
+- **Website**: [expertwebdeveloper.com](https://expertwebdeveloper.com)
+- **Phone**: +447448418213
 - **Version**: 1.0.0
 - **License**: GPL v2 or later
+
+### Learn More
+For a detailed blog post about this plugin and its features, visit:
+[Free WooCommerce Payment Method Discount Plugin: Boost Conversions with Strategic Payment Incentives](https://expertwebdeveloper.com/free-woocommerce-payment-method-discount-plugin-boost-conversions-with-strategic-payment-incentives/)
+
+### Developer Contact
+
+For support, custom development, or inquiries about this plugin:
+
+- **Website**: [expertwebdeveloper.com](https://expertwebdeveloper.com)
+- **Phone**: +447448418213
+- **Blog Post**: [Free WooCommerce Payment Method Discount Plugin](https://expertwebdeveloper.com/free-woocommerce-payment-method-discount-plugin-boost-conversions-with-strategic-payment-incentives/)
 
 ### Reporting Issues
 
