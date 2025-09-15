@@ -4,10 +4,16 @@
  * Description: Provides percentage or fixed discounts based on selected payment method
  * Version: 1.0.0
  * Author: Expert Web Developer
+ * Author URI: https://expertwebdeveloper.com
+ * Plugin URI: https://expertwebdeveloper.com/free-woocommerce-payment-method-discount-plugin-boost-conversions-with-strategic-payment-incentives/
  * Requires at least: 5.0
  * Tested up to: 6.4
  * WC requires at least: 6.0
  * WC tested up to: 8.5
+ * 
+ * Developer Contact:
+ * Phone: +447448418213
+ * Website: expertwebdeveloper.com
  */
 
 // Prevent direct access
